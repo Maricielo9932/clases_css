@@ -1,0 +1,14 @@
+.principal{
+    height: 600px;
+    padding-top: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.principal article{
+    height:100px ;
+    width: 100px;
+    background: rgb(221, 5, 5);
+    margin: 20px;
+    border: 1px dashed #e20101;
+}
